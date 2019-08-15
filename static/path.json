@@ -1,0 +1,11 @@
+{
+  'movements' : {
+    'id' : 'stocks_move_id',
+    'name' : 'product.descriptions[0].products_name',
+    'type' : 'stocks_move_type',
+    'from' : 'stocks_move_from',
+    'to' : 'stocks_move_to',
+    'quantity' : 'stocks_move_quantity',
+    'date' : 'stocks_move_date'
+  }
+}
